@@ -1,0 +1,89 @@
+.z{
+  color:maroon;
+  text-align: center;
+}
+#card{
+  border:20px solid white;
+}
+#e{
+  margin-left: 40px;
+  margin-right: 40px;
+}
+#f{
+  margin-left:800px ;
+}
+#u{
+  height: 100%;
+  width: 100%;
+  border-radius: 100%;
+}
+.r{
+  border: 1px solid white;
+  height: 30px;
+  width: 15px;
+}
+#d{
+  height:50%;
+  width:50%;
+  margin-left: 30%;
+}
+#a{
+  height: 100%;
+  width: 100%;
+  border: 5px solid dotted;
+}
+#v{
+  margin-top: 50px;
+}
+#c{
+  margin-left: 20px;
+}
+h5{
+  text-align: center;
+}
+#b{
+  border: 3px solid black;
+  margin-left: 40px;
+  margin-right: 40px;
+  padd
+}
+p{
+  color: black;
+  font-size: 20px;
+  padding-top: 20px;
+   font-family: bold;
+   text-align: center;
+}
+
+#i2{
+  height: 50%;
+  width: 50%;
+}
+#t{
+  text-align: center;
+  color: white;
+
+}
+#k{
+  height: 250px;
+  width: 250px;
+  border: 3px solid black;
+}
+#icon{
+  size: 30px;
+  color: blue;
+  padding:20px ;
+  font-size: 50px;
+  text-align: center;
+}
+#h{
+  margin-left: 500px;
+  margin-top: 20px;
+}
+#o{
+  height: 80%;
+  width: 80%;
+  border: 1px solid green;
+  color: black;
+}
+
